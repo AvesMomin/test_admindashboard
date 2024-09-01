@@ -1,0 +1,299 @@
+{
+  "student": [
+    {
+      "id": "db3a",
+      "firstName": "Jhon",
+      "lastName": "Jacob",
+      "age": 7,
+      "grade": "3",
+      "school": "MIT"
+    },
+    {
+      "id": "ca52",
+      "firstName": "Tom",
+      "lastName": "Stark",
+      "age": 7,
+      "grade": "3",
+      "school": "MIT",
+      "email": "gg@email.com"
+    },
+    {
+      "id": "5ba7",
+      "firstName": "Iron",
+      "lastName": "Man",
+      "age": 32,
+      "grade": "4",
+      "school": "MIT",
+      "email": "drdoom@gmail.com"
+    },
+    {
+      "id": "0f39",
+      "firstName": "Sanjay",
+      "lastName": "Singhania",
+      "age": 24,
+      "grade": "6",
+      "school": "IIT",
+      "email": "Ghajinia@lost.com"
+    },
+    {
+      "id": "f20b",
+      "firstName": "",
+      "lastName": "",
+      "age": 5,
+      "grade": "",
+      "school": "MIT",
+      "email": ""
+    },
+    {
+      "id": "7dc2",
+      "firstName": "Hawkeye",
+      "lastName": "Banner",
+      "age": 47,
+      "grade": "8",
+      "school": "NIT",
+      "email": "smashhulk@gmail.com"
+    },
+    {
+      "id": "dd60",
+      "firstName": "rehan",
+      "lastName": "j",
+      "age": 35,
+      "grade": "5",
+      "school": "NIT",
+      "email": "212"
+    },
+    {
+      "id": "8456",
+      "firstName": "temp",
+      "lastName": "pat",
+      "age": 7,
+      "grade": "3",
+      "school": "MIT",
+      "email": "gg@email.com"
+    },
+    {
+      "id": "59d9",
+      "firstName": "Momin",
+      "lastName": "Rasool",
+      "age": 39,
+      "grade": "2",
+      "school": "IIT",
+      "email": "avesjulaha@gmail.com"
+    },
+    {
+      "id": "cb25",
+      "firstName": "Momin",
+      "lastName": "Rasool",
+      "age": 39,
+      "grade": "2",
+      "school": "IIT",
+      "email": "avesjulaha@gmail.com"
+    },
+    {
+      "id": "3b01",
+      "firstName": "Momin",
+      "lastName": "Rasool",
+      "age": 39,
+      "grade": "2",
+      "school": "IIT",
+      "email": "avesjulaha@gmail.com"
+    },
+    {
+      "id": "52bd",
+      "firstName": "12",
+      "lastName": "12",
+      "age": 19,
+      "grade": "1",
+      "school": "IIT",
+      "email": "12"
+    },
+    {
+      "id": "7d83",
+      "firstName": "12",
+      "lastName": "12",
+      "age": 37,
+      "grade": "1",
+      "school": "IIT",
+      "email": "12"
+    },
+    {
+      "id": "39aa",
+      "firstName": "12",
+      "lastName": "12",
+      "age": 65,
+      "grade": "1",
+      "school": "IIT",
+      "email": "12"
+    },
+    {
+      "id": "b61b",
+      "firstName": "12",
+      "lastName": "12",
+      "age": 65,
+      "grade": "1",
+      "school": "MIT",
+      "email": "12"
+    },
+    {
+      "id": "b8b0",
+      "firstName": "aves",
+      "lastName": "momin",
+      "age": 65,
+      "grade": "1",
+      "school": "MIT",
+      "email": "12"
+    },
+    {
+      "id": "86c6",
+      "firstName": "Momin",
+      "lastName": "Rasool",
+      "age": 41,
+      "grade": "10",
+      "school": "NIT",
+      "email": "avesjulaha@gmail.com"
+    },
+    {
+      "id": "7efc",
+      "firstName": "avess",
+      "lastName": "Rasool",
+      "age": 41,
+      "grade": "10",
+      "school": "NIT",
+      "email": "avesjulaha@gmail.com"
+    },
+    {
+      "id": "3874",
+      "firstName": "avess",
+      "lastName": "qwqwq",
+      "age": 41,
+      "grade": "10",
+      "school": "NIT",
+      "email": "avesjulaha@gmail.com"
+    },
+    {
+      "id": "70a8",
+      "firstName": "",
+      "lastName": "",
+      "age": 5,
+      "grade": "",
+      "school": "IIT",
+      "email": ""
+    },
+    {
+      "id": "fd65",
+      "firstName": "rehan ",
+      "lastName": "test",
+      "age": 5,
+      "grade": "2",
+      "school": "NIT",
+      "email": "1212"
+    },
+    {
+      "id": "81ae",
+      "firstName": "John",
+      "lastName": "Jacoms",
+      "age": 5,
+      "grade": "3",
+      "school": "MIT",
+      "email": "email@gmail.com"
+    },
+    {
+      "id": "f34e",
+      "firstName": "John",
+      "lastName": "Jacoms",
+      "age": 5,
+      "grade": "3",
+      "school": "MIT",
+      "email": "email@gmail.com"
+    },
+    {
+      "id": "46a2",
+      "firstName": "John",
+      "lastName": "Jacoms",
+      "age": 5,
+      "grade": "3",
+      "school": "MIT",
+      "email": "email@gmail.com"
+    },
+    {
+      "id": "9aa6",
+      "firstName": "John",
+      "lastName": "Jacoms",
+      "age": 5,
+      "grade": "3",
+      "school": "MIT",
+      "email": "email@gmail.com"
+    },
+    {
+      "id": "7faa",
+      "firstName": "John",
+      "lastName": "Jacoms",
+      "age": 5,
+      "grade": "3",
+      "school": "MIT",
+      "email": "email@gmail.com"
+    },
+    {
+      "id": "5e70",
+      "firstName": "John",
+      "lastName": "Jacoms",
+      "age": 5,
+      "grade": "3",
+      "school": "MIT",
+      "email": "email@gmail.com"
+    },
+    {
+      "id": "333c",
+      "firstName": "John",
+      "lastName": "Jacoms",
+      "age": 5,
+      "grade": "3",
+      "school": "MIT",
+      "email": "email@gmail.com"
+    }
+  ],
+  "subject": [
+    {
+      "id": "88c3",
+      "subjectName": "hindi",
+      "description": "hidni",
+      "grade": "2",
+      "school": "MIT"
+    },
+    {
+      "id": "68e6",
+      "subjectName": "hindi",
+      "description": "hidni",
+      "grade": "3",
+      "school": "MIT"
+    },
+    {
+      "id": "b158",
+      "subjectName": "Hindi",
+      "description": "Marathi ",
+      "grade": "8",
+      "school": "IIT"
+    },
+    {
+      "id": "8478",
+      "subjectName": "Hindi",
+      "description": "urdu",
+      "grade": "9",
+      "school": "IIT"
+    },
+    {
+      "id": "fbf1",
+      "subjectName": "french",
+      "description": "Language of france",
+      "grade": "3",
+      "school": "MIT"
+    },
+    {
+      "id": "4d44",
+      "subjectName": "french",
+      "description": "Language of france",
+      "grade": "3",
+      "school": "MIT"
+    }
+  ]
+}
